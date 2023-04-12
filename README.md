@@ -26,6 +26,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-the-badge&logo=amazon-aws&logoColor=white)
   
   
 <h2>🎈Tools🎈</h2>
@@ -36,7 +37,12 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)<br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-the-badge&logo=googledrive&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=flat-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-the-badge&logo=slack&logoColor=white)
 
 # 📊GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WookCoding&show_icons=true&theme=algolia )
