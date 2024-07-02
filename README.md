@@ -8,7 +8,7 @@
 "Courage is very important when it comes to anything" <br><br>
 <img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
 <h2>🎈About Me🎈</h2>
-🎓Graduated : DongSeoul University<br>
+🎓Graduated : Sejong Cyber University<br>
 📜Certificated Korea IT program in Seoul<br>
 💌Email : dnrwhddla300@naver.com<br>
 🏆Portfolio <a href="https://maple-lupin-5b2.notion.site/cb795c1566b7421c876d991f57c512dc?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white"/></a>
