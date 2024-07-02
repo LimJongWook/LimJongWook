@@ -11,7 +11,7 @@
 🎓Graduated : DongSeoul University<br>
 📜Certificated Korea IT program in Seoul<br>
 💌Email : dnrwhddla300@naver.com<br>
-🏆Portfolio <a href="[https://maple-lupin-5b2.notion.site/JongWook-3c11d40c6bfb4436a70f20b8c816e1b0](https://maple-lupin-5b2.notion.site/cb795c1566b7421c876d991f57c512dc?pvs=4)"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white"/></a>
+🏆Portfolio <a href="https://maple-lupin-5b2.notion.site/cb795c1566b7421c876d991f57c512dc?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white"/></a>
 
 # 💻Tech Stack
 
